@@ -309,7 +309,7 @@ li a:hover {
      <?php
 
           $count=0;
-           $sss="select * from post where person_id ='$id';";
+           $sss="select * from post where person_id ='$id' order by date_created desc;";
             $result = mysqli_query($mysqli,$sss);
             while($post=mysqli_fetch_row($result))
             {
