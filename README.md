@@ -1,4 +1,4 @@
-# social-media-web-application-project
+# Social-Media-Web-Application-project
 This is a web application project powered by PHP and MYSQL
 Social Media Web Application
 
