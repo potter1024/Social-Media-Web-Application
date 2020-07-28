@@ -6,9 +6,9 @@ Implemented all features:
 1. Personalised Home Page
 2. Dynamic Personalised Newsfeed for the to view and like the posts of friends
 3. Sending and recieving friend requests
-4. Uploading a post.
+4. Uploading a post
 5. Liking a post
-6. Displaying notifications when
+6. Displaying notifications when:
     a. Someone sends you a friend request
     b. Someone accepts your friend request
     c. Someone likes your post
