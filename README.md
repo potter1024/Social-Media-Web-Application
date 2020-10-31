@@ -4,7 +4,7 @@ Social Media Web Application
 
 Implemented all features:
 1. Personalised Home Page
-2. Dynamic Personalised Newsfeed for the to view and like the posts of friends
+2. Dynamic Personalised Newsfeed to view and like the posts of friends
 3. Sending and recieving friend requests
 4. Uploading a post
 5. Liking a post
